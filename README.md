@@ -1,3 +1,3 @@
 # react-carousel-v2
 
-The new gen of react carousels
+The next gen of react carousels
